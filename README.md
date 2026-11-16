@@ -4,13 +4,18 @@
 
 ## 🚀 2026 机场推荐与避坑指南
 
-[![Nodes](https://img.shields.io/badge/Nodes-22%2B%20Online-blue)](https://status.harnesscom.com)
+[![Nodes](https://img.shields.io/badge/Nodes-25%20Nodes%20%7C%2080%2B%20Lines-blue)](https://status.harnesscom.com)
+[![Regions](https://img.shields.io/badge/Regions-8-brightgreen)](https://two.harnesscom.com)
 [![From](https://img.shields.io/badge/From-%C2%A52.00-red)](https://two.harnesscom.com)
+[![TG Group](https://img.shields.io/badge/TG%20%E4%BA%A4%E6%B5%81%E7%BE%A4-%E5%8A%A0%E5%85%A5-2CA5E0?logo=telegram)](https://t.me/+5IxXmEOGFHczY2E1)
 
 - 📖 [2026 最新平价稳定机场推荐](https://github.com/flyingiq/airport-recommended-2026)
+- 📦 [全平台客户端下载与配置](https://github.com/flyingiq/v2ray-client-download-2026)
+- 🧩 [Clash Verge Rev 完整指南](https://github.com/flyingiq/clash-verge-guide-2026)
 - 🌐 [自营商城](https://two.harnesscom.com)
 - 📊 [节点实时状态](https://status.harnesscom.com)
 - ✈️ [Telegram 频道](https://t.me/alice2yuan)
+- 💬 [Telegram 交流群](https://t.me/+5IxXmEOGFHczY2E1)
 
 ## 🛠 自建工具
 
